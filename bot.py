@@ -3,7 +3,6 @@ import requests, datetime, time
 
 class TelegramBot:
     def __init__(self, token, chat_address):
-        pass
         self.token = token
         self.message = ''
         self.chat_id = chat_address
