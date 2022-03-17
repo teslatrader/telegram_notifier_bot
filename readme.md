@@ -12,8 +12,6 @@ more complex bots.
 
 Make sure that you have installed python v.3.7+
 
-Open terminal in root directory
-
 Activate virtual environment (you have to have virtualenv installed)
 or install packages from requirements.txt globally:
 
